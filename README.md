@@ -1,4 +1,4 @@
-# H1 The Github instructions
+# The Github instructions
 
 ```
 git init (do this only the first time)
